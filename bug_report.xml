@@ -1,1 +1,20 @@
+<Bug_report>
+  <Defect_ID>B067</Defect_ID>
+  <Reporter_name>Alina</Reporter_name>
+  <Who_detected>Alina</Who_detected>
+  <Defect_reporter_date>February 17, 2022</Defect_reporter_date>
+  <Who_detected>Alina</Who_detected>
+  <Project_name>Project X</Project_name>
+  <Version_release>24</Version_release>
+  <Defect>The creator of a group conversation cannot rename it</Defect>
+  <Priority>Medium</Priority>
+  <Description>Steps</Description>
+  <Step1>Login in</Step1>
+  <Step2>Open chat dialog</Step2>
+	<Step3>Click on the settings' button</Step3>
+	<Step4>Add any user to a group conversation</Step4>
+	<Step5>Try to rename this group</Step5>
+	<Actual result>Rename is disabled</Actual result>
+	<Desired result>Rename is enabled</Desired result>
+    </Bug_report>
 
